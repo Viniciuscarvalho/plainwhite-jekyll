@@ -12,8 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Vinicius Carvalho
+  tagline: iOS Engineer. Developer and more.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -22,19 +22,10 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: viniciusc70
+    github:  viniciuscarvalho
+    linkedIn: in/viniciuscarvalhomarques
     rss: rss
-    dribbble: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    pinterest: jekyll
-    youtube: jekyll
-    facebook: jekyll
-    soundcloud: jekyll
-    telegram: jekyll
-    gitlab: jekyll
 
     # Mastodon instances
     # mastodon:
